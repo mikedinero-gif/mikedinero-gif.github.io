@@ -1,9 +1,0 @@
-{
-  "appId": "com.lazlights.game",
-  "appName": "Laz Lights",
-  "webDir": "www",
-  "ios": {
-    "contentInset": "never",
-    "backgroundColor": "#070814"
-  }
-}
